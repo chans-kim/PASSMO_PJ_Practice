@@ -1,4 +1,4 @@
-echo "# PASSMO_PJ_Practice" >> README.md
+echo "# PASSMO_PJ_Practice2" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
